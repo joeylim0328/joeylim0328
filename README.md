@@ -1,4 +1,6 @@
-### Hi there 👋
+<p>
+  <h1 align="center"><b>Joey Lim 👋</b></h1>
+</p>
 
 <!--
 **joeylim0328/joeylim0328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
